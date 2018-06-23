@@ -1,4 +1,2 @@
 # Machine learning summer school at TTI Chicago
 My solutions to assignments when attending 2018 machine learning summer school at TTI Chicago(Toyota Technological Institute at Chicago).
-### Day 1:
-Although the topic for today is an introduction to supervised learning and linear regression, I am more interested in exploratory data analysis, data preprocessing techniques and feature engineering, which actually hasn't been talked much but is an essential and perhaps one of the most important steps when doing data analysis. Per my understanding it is where you try to get a good feeling of the data, where you gain "insights". Unfortunately most machine learning/deep learning courses only pay 5% or less attention on it; this applies to at least the 4 courses I have taken - all of them only mentioned normalization/standardization. The reason might be you have to really play with many real datasets instead of mockup ones in order to gain such experience.
